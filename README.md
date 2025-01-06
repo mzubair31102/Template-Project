@@ -115,6 +115,6 @@ Feel free to customize this template based on your specific needs. If you have s
 
 For more details, visit:
 - **LinkedIn**: [Muhammad Zubair](https://www.linkedin.com/in/capracode/)
-- **Portfolio**: [CapraCode Portfolio](https://capracode.com/portfolio/mzubair/)
+- **Portfolio**: [Muhammad Zubair -  Portfolio](https://capracode.com/portfolio/mzubair/)
 
 For any inquiries or collaboration opportunities, email me at: **mzubair31102@gmail.com**
