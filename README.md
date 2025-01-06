@@ -110,3 +110,11 @@ This template is ideal for research and development tasks, providing:
 - Support for quick prototyping and testing of new tools, libraries, and frameworks.
 
 Feel free to customize this template based on your specific needs. If you have suggestions for improvement, consider contributing to the repository.
+
+## Contact
+
+For more details, visit:
+- **LinkedIn**: [Muhammad Zubair](https://www.linkedin.com/in/capracode/)
+- **Portfolio**: [CapraCode Portfolio](https://capracode.com/portfolio/mzubair/)
+
+For any inquiries or collaboration opportunities, email me at: **mzubair31102@gmail.com**
